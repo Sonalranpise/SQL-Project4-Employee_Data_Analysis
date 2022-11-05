@@ -1,14 +1,13 @@
 # SQL-Project4-Employee_Data_Analysis
 
-DESCRIPTION
+**DESCRIPTION**
 An HR of the company wants to extract, update, and delete employee details to maintain their records.
 
  
-Objective:
+**Objective:**
 The database design helps to calculate the monthly payroll of each employee efficiently.
 
-Task to be performed:                               
-
+**Task to be performed:**                               
 - Write a query to create an employee table with the fields employee id, first name, last name, job id, salary, manager id, and department id.
 - Write a query to insert values into the employee table.
 - Write a query to find the first name and salary of the employee whose salary is higher than the employee with the last name Kumar from the employee table.
